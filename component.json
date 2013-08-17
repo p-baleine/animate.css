@@ -1,0 +1,13 @@
+{
+  "name": "animate.css",
+  "repo": "p-baleine/animate.css",
+  "description": "Cross-browser CSS3 animations. Plug and play. Do a little dance.",
+  "version": "2.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "styles": [
+    "animate.css"
+  ]
+  "license": "MIT"
+}
